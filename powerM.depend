@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509287780 source:d:\derslerim\code blocks\powerm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
